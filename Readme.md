@@ -1,4 +1,4 @@
-# ResourceDiscovery-DLA
+# Grid-RD-DLA
 <p align="justify"> Java codes for Grid Resource Discovery based on Distributed Learning Automata (RDDLA) <a href="http://link.springer.com/article/10.1007/s11227-014-1289-4"  target="_blank">[1]</a>. </p>
 <h2><a href="http://cld.persiangig.com/download/y6M1hepB9g/SPRINGER-DOG-2015.pdf/dl" target="_blank">Full Text</a></h2>
 <h2><a id="abstract" class="anchor" href="#abstract" aria-hidden="true"><span class="octicon octicon-link"></span></a>Abstract</h2>
@@ -8,6 +8,6 @@
 <h2><a id="reference" class="anchor" href="#reference" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reference</h2>
 
 
-<p align="justify"> [1] Mohammad Hasanzadeh and Mohammad Reza Meybodi"<a href="http://link.springer.com/article/10.1007/s11227-014-1289-4"  target="_blank"> Distributed optimization Grid resource discovery</a>," Computing, 2014, vol. 96, no. 9, pp.909-922.</p>
+<p align="justify"> [1] Mohammad Hasanzadeh and Mohammad Reza Meybodi"<a href="http://link.springer.com/article/10.1007/s11227-014-1289-4"  target="_blank"> Distributed optimization Grid resource discovery</a>," Journal of Supercomputing, 2015, vol. 71, no. 1, pp.87-120.</p>
 
 
