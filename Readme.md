@@ -8,6 +8,6 @@
 <h2><a id="reference" class="anchor" href="#reference" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reference</h2>
 
 
-<p align="justify"> [1] Mohammad Hasanzadeh and Mohammad Reza Meybodi"<a href="http://link.springer.com/article/10.1007/s11227-014-1289-4"  target="_blank"> Distributed optimization Grid resource discovery</a>," Journal of Supercomputing, 2015, vol. 71, no. 1, pp.87-120.</p>
+<p align="justify"> [1] Mohammad Hasanzadeh and Mohammad Reza Meybodi"<a href="http://link.springer.com/article/10.1007/s11227-014-1289-4"  target="_blank"> Distributed optimization Grid resource discovery</a>," The Journal of Supercomputing, 2015, vol. 71, no. 1, pp.87-120.</p>
 
 
