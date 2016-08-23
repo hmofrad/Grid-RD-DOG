@@ -1,4 +1,4 @@
-# Grid-RD-DOG
+# GRID-RD-DOG
 <p align="justify"> Java codes for Distributed Optimization Grid (DOG) Resource Discovery algorithm. <a href="http://link.springer.com/article/10.1007/s11227-014-1289-4"  target="_blank">[1]</a>. </p>
 <h2><a href="http://cld.persiangig.com/download/y6M1hepB9g/SPRINGER-DOG-2015.pdf/dl" target="_blank">Full Text</a></h2>
 <h2><a id="abstract" class="anchor" href="#abstract" aria-hidden="true"><span class="octicon octicon-link"></span></a>Abstract</h2>
